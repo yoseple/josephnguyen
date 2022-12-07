@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi I'm Lori👋
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width=700>
 
 
