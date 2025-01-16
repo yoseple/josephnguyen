@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning how to build an Vertebrae Detection for CT scans
 - 👯 I’m looking to collaborate on more Biomedical Software Engineering
 - 💬 Ask me about my Hobbies!
-- 📫 How to reach me: yoseple23@gmail.com
+- 📫 How to reach me: joseph.sepnguyen@gmail.com
